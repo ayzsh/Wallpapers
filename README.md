@@ -15,9 +15,9 @@ To keep the collection clean and easy to browse, wallpapers are organized into t
 Wallpapers/ 
 ├── aesthetic/
 ├── cute/ 
+├── misc/
 ├── nature/ 
-├── urban/ 
-├── misc/ 
+├── urban/  
 └── README.md
 ```
 
