@@ -13,7 +13,8 @@ To keep the collection clean and easy to browse, wallpapers are organized into t
 
 ```
 Wallpapers/ 
-├── cats/ 
+├── aesthetic/
+├── cute/ 
 ├── nature/ 
 ├── urban/ 
 ├── misc/ 
